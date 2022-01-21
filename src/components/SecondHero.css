@@ -1,0 +1,23 @@
+.SecondHero{
+    background: url("../assets/images/bg1.jpg") no-repeat center;
+    background-size: cover;
+    height: 800px;
+    width: 100vw;
+}
+.second-hero-wrapper{
+    padding-top: 196px;
+    margin:0 auto;
+    text-align: center;
+    width: 770px;
+}
+.second-hero-text-1{
+    font-family: "Motter Corpus";
+    font-size: 80px;
+    color: white;
+}
+.second-hero-text-2{
+    margin-top:24px;
+    font-family: "Nunito Sans";
+    font-size: 24px;
+    color: white;
+}

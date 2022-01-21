@@ -1,38 +1,42 @@
-.App {
-  text-align: center;
+@font-face {
+    font-family: 'Nunito Sans';
+    src: url(./assets/fonts/NunitoSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'Nunito Sans SemiBold';
+    src: url(./assets/fonts/NunitoSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'Nunito Sans Bold';
+    src: url(./assets/fonts/NunitoSans-Bold.ttf);
+}
+@font-face {
+    font-family: 'Nunito Sans ExtraBold';
+    src: url(./assets/fonts/NunitoSans-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Nunito Sans Light';
+    src: url(./assets/fonts/NunitoSans-Light.ttf);
+}
+@font-face {
+    font-family: 'Motter Corpus';
+    src: url(./assets/fonts/MotterCorpusStdRegular/MotterCorpusStdRegular.otf);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App{
+    box-sizing: border-box;
+    font-family: "Nunito Sans";
+    font-size: 16px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body{
+    color: #0B4141;
+    margin: 0;
+    padding: 0;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+b{
+    font-family: "Nunito Sans Bold";
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container{
+    width: 1230px;
+    margin: 0 auto;
 }

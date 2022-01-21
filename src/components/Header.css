@@ -1,0 +1,13 @@
+.header{
+    height: 80px;
+}
+.header-container{
+    width: 1230px;
+    margin: 0 auto;
+}
+.header-wrap{
+    display: flex;
+    align-items: center;
+    min-height: 80px;
+    justify-content: space-between;
+}

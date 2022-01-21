@@ -1,0 +1,45 @@
+.ThirdHero{
+    color: #FFCCBC;
+    background-color: #0B4141;
+    height: 800px;
+    overflow: hidden;
+}
+.third-hero-wrapper{
+    padding-top: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+.third-hero-content{
+    width: 40%;
+}
+.crop-container {
+    width: 550px;
+    height: 800px;
+    overflow: hidden;
+}
+.third-hero-text-1{
+    line-height: 72px;
+    font-family: "Nunito Sans ExtraBold";
+    font-size: 68px;
+}
+.third-hero-text-2{
+    margin-top:32px;
+    font-family: "Nunito Sans";
+    font-size: 24px;
+}
+.third-hero-btn{
+    font-family: "Nunito Sans Bold";
+    margin-top: 48px;
+    width: 291px;
+    height: 54px;
+    border-radius: 124px;
+    border: 1px #FFCCBC solid;
+    background-color: rgba(1,1,1,0);
+    color: #FFCCBC;
+    font-size: 18px;
+    line-height: 25px;
+}
+.third-hero-img{
+    position: relative;
+    top:90px;
+}

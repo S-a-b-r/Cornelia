@@ -1,0 +1,27 @@
+.FifthHero{
+    position:relative;
+    padding-top:117px;
+    text-align: center;
+    margin-top: 76px;
+    height: 800px;
+    background-color: rgba(245, 245, 245, 0.6);
+}
+.fifth-hero-header{
+    font-family: "Motter Corpus";
+    font-size: 80px;
+    color: #FFCCBC;
+}
+.fifth-hero-text{
+    font-family: "Nunito Sans";
+    font-size: 24px;
+    margin: 24px auto;
+    text-align: center;
+    width: 890px;
+}
+.fifth-hero-image{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 43px;
+}

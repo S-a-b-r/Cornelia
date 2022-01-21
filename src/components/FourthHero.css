@@ -1,0 +1,52 @@
+.FourthHero{
+    margin-top:96px;
+    height: 1288px;
+}
+.fourth-hero-container-1{
+    display: flex;
+}
+.fourth-hero-text-container-1{
+    padding-top:100px;
+}
+.fourth-hero-head-1{
+    font-family: "Nunito Sans ExtraBold";
+    font-size: 68px;
+    color: #FFCCBC;
+    line-height: 72px;
+
+}
+.fourth-hero-text-1{
+    font-family: "Nunito Sans";
+    margin-top: 32px;
+    font-size: 24px;
+    line-height: 32px;
+}
+.fourth-hero-container-scroll{
+    margin-top: 49px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+
+}
+.fourth-hero-text-scroll{
+    margin-left: 16px;
+}
+.fourth-hero-container-2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 120px;
+}
+.fourth-hero-text-container-2{
+    width: 470px;
+}
+.fourth-hero-head-2{
+    font-family: "Nunito Sans ExtraBold";
+    font-size: 68px;
+    line-height: 72px;
+}
+.fourth-hero-text-2{
+    font-family: "Nunito Sans";
+    margin-top: 32px;
+    font-size: 24px;
+    line-height: 32px;
+}

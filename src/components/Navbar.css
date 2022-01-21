@@ -1,0 +1,23 @@
+.navbar-link{
+    text-decoration: none;
+    color:#0B4141;
+}
+.navbar-btn{
+    font-size: 16px;
+    margin-left: 48px;
+    border: 0;
+    width: 163px;
+    height: 46px;
+    border-radius: 124px;
+    background-color: #0B4141;
+    color: #FFCCBC;
+    padding: 12px 18px 12px 18px;
+}
+.navbar-item{
+    font-family: "Nunito Sans SemiBold";
+    margin-right: 24px;
+    display: inline-block;
+}
+.navbar-wrap{
+    display: flex;
+}

@@ -1,0 +1,28 @@
+
+.StartHero{
+    margin: 0;
+    overflow: hidden;
+    height: 820px;
+    background: url("../assets/images/confettis.png") no-repeat center;
+}
+.start-hero-text-1{
+    padding-top:100px;
+    text-align: center;
+    font-family: "Motter Corpus";
+    font-size: 120px;
+    color: #FFCCBC;
+}
+.start-hero-text-2{
+    text-align: center;
+    font-family: "Motter Corpus";
+    font-size: 120px;
+    color: #0B1F1F;
+    z-index: 1000;
+    position: relative;
+
+}
+.img{
+    z-index: 100;
+    position: relative;
+    top:-250px;
+}
