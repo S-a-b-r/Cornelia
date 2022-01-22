@@ -7,6 +7,9 @@ import ThirdHero from "./components/ThirdHero";
 import FourthHero from "./components/FourthHero";
 import FifthHero from "./components/FifthHero";
 import ReviewsHero from "./components/ReviewsHero";
+import EachLesser from "./components/EachLesser";
+import UnicornsExist from "./components/UnicornsExist";
+import End from "./components/End";
 
 function App() {
   return (
@@ -18,7 +21,9 @@ function App() {
         <FourthHero></FourthHero>
         <FifthHero></FifthHero>
         <ReviewsHero></ReviewsHero>
-        Download
+        <EachLesser></EachLesser>
+        <UnicornsExist/>
+        <End/>
     </div>
   );
 }

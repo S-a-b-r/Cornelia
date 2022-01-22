@@ -4,6 +4,11 @@
     background: linear-gradient(180deg, #FFCCBC 0%, rgba(255, 204, 188, 0) 100%), url("../assets/images/CorneliaConfettis.png") no-repeat center;
     background-size: cover;
 }
+.reviews-hero-img{
+    position: relative;
+    right: -600px;
+    top: -100px;
+}
 .reviews-hero-header{
     font-family: "Nunito Sans ExtraBold";
     font-style: normal;
@@ -11,4 +16,13 @@
     line-height: 72px;
     text-align: center;
     color:white;
+}
+.reviews-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 64px auto;
+    width: 960px;
+}
+.col{
+    width: 28%;
 }

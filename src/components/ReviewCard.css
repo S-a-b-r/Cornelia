@@ -1,0 +1,27 @@
+.ReviewCard{
+    margin-bottom: 24px;
+    background-color: white;
+    width: 100%;
+    height: min-content;
+    padding: 20px;
+    border-radius: 8px;
+}
+.card-text{
+    font-size: 13px;
+    margin-bottom: 16px;
+}
+.card-author{
+    display: flex;
+}
+.author-description{
+    margin-left: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.author-name{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.author-job{
+    font-size: 14px;
+}

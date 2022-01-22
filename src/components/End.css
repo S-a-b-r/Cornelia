@@ -1,0 +1,42 @@
+.End{
+    height: 800px;
+    background: #0B4141;
+}
+.end-container{
+    padding-top: 236px;
+    text-align: center;
+    color: #FFCCBC;
+}
+.end-header{
+    font-family: "Motter Corpus";
+    font-size: 80px;
+    line-height: 96px;
+}
+.end-buttons{
+    display: flex;
+    margin: 69px auto;
+    width: min-content;
+}
+.btn-text{
+    margin-left: 12px;
+    text-align: left;
+}
+.end-btn{
+    display: flex;
+    background-color: rgba(1,1,1,0);
+    color: #FFCCBC;
+    padding: 21px 40px;
+    width: 240px;
+    height: 82px;
+    border: 2px solid #FFCCBC;
+    box-sizing: border-box;
+    border-radius: 300px;
+}
+.by-cornelia{
+    color: #FFCCBC;
+}
+.end-cornelia-header{
+    font-size: 20px;
+    font-family: "Motter Corpus";
+    margin-bottom: 8px;
+}

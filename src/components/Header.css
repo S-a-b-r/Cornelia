@@ -1,5 +1,10 @@
 .header{
+    z-index: 1001;
+    width: 100%;
+    position: fixed;
     height: 80px;
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(18px);
 }
 .header-container{
     width: 1230px;
