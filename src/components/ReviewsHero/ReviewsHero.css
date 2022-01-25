@@ -1,7 +1,7 @@
 .ReviewsHero{
     padding-top: 64px;
     height: 1200px;
-    background: linear-gradient(180deg, #FFCCBC 0%, rgba(255, 204, 188, 0) 100%), url("../assets/images/CorneliaConfettis.png") no-repeat center;
+    background: linear-gradient(180deg, #FFCCBC 0%, rgba(255, 204, 188, 0) 100%), url("../../assets/images/CorneliaConfettis.png") no-repeat center;
     background-size: cover;
 }
 .reviews-hero-img{

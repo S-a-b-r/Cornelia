@@ -3,7 +3,7 @@
     margin: 0;
     overflow: hidden;
     height: 820px;
-    background: url("../assets/images/confettis.png") no-repeat center;
+    background: url("../../assets/images/confettis.png") no-repeat center;
 }
 .start-hero-text-1{
     padding-top:100px;

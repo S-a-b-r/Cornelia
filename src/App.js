@@ -1,27 +1,27 @@
 import './App.css';
 import react from 'react';
-import Header from "./components/Header";
-import StartHero from "./components/StartHero";
-import SecondHero from "./components/SecondHero";
-import ThirdHero from "./components/ThirdHero";
-import FourthHero from "./components/FourthHero";
-import FifthHero from "./components/FifthHero";
-import ReviewsHero from "./components/ReviewsHero";
-import EachLesser from "./components/EachLesser";
-import UnicornsExist from "./components/UnicornsExist";
-import End from "./components/End";
+import Header from "./components/Header/Header";
+import StartHero from "./components/StartHero/StartHero";
+import SecondHero from "./components/SecondHero/SecondHero";
+import ThirdHero from "./components/ThirdHero/ThirdHero";
+import FourthHero from "./components/FourthHero/FourthHero";
+import FifthHero from "./components/FifthHero/FifthHero";
+import ReviewsHero from "./components/ReviewsHero/ReviewsHero";
+import EachLesser from "./components/EachLesser/EachLesser";
+import UnicornsExist from "./components/UnicornsExist/UnicornsExist";
+import End from "./components/End/End";
 
 function App() {
   return (
     <div className="App">
-        <Header></Header>
-        <StartHero></StartHero>
-        <SecondHero></SecondHero>
-        <ThirdHero></ThirdHero>
-        <FourthHero></FourthHero>
-        <FifthHero></FifthHero>
-        <ReviewsHero></ReviewsHero>
-        <EachLesser></EachLesser>
+        <Header/>
+        <StartHero/>
+        <SecondHero/>
+        <ThirdHero/>
+        <FourthHero/>
+        <FifthHero/>
+        <ReviewsHero/>
+        <EachLesser/>
         <UnicornsExist/>
         <End/>
     </div>
